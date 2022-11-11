@@ -3,6 +3,12 @@
     padding: 0;
 }
 
+.pageStart{
+    width: fit-content;
+    height: fit-content;
+    margin: 50vh auto;
+}
+
 .track{
     background-color: rgb(95, 94, 94);
     height: 100vh;
@@ -11,7 +17,6 @@
 }
 
 .car{
-    
     height: fit-content;
     width: fit-content;
     position: absolute;
@@ -21,6 +26,13 @@
 
 .car > img{
     height: 150px;
+}
+
+.player{
+    color:black;
+    position: absolute;
+    top: 20px;
+    left: 50px;
 }
 
 .stone{
