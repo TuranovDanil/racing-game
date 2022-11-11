@@ -15,10 +15,10 @@ function gameFunc(playerName){
     player.innerHTML = `<p>${playerName}</p>`;
     gameBlock.append(player);
     
-    // function stoneSpawn(){
-    //     let stone = document.createElement('div');
-    //     stone.
-    // }
+    function stoneSpawn(){
+        let stone = document.createElement('div');
+        
+    }
     
 
 
